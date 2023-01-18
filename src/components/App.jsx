@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <Navbar/>
-      <h2>You may like...</h2>
+      <p className='mayLike'>You may like :)</p>
       <div class="container">
   <div class="product1"><img src={require('./images/P0.jpg')}></img></div>
   <div class="producto2"><img src={require('./images/P1.jpg')}></img></div>
@@ -18,7 +18,11 @@ function App() {
   <div class="product10"><img src={require('./images/P9.jpg')}></img></div>
   <div class="product11"><img src={require('./images/P10.jpg')}></img></div>
   <div class="product12"><img src={require('./images/P11.jpg')}></img></div>
-</div>     
+</div>
+
+<footer>
+  <p className='copyright'>All rights reserved 2023 Oddly New SA</p>
+</footer>
     </div> 
   );
 }

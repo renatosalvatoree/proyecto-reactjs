@@ -51,6 +51,14 @@ nav {
         }
 }
 
+.mayLike{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    font-weight: 400;
+}
+
 .container {  
     margin: 0 auto;
     width: 95%;
@@ -100,3 +108,7 @@ nav {
   
   .product12 { grid-area: product12; }
   
+.copyright{
+    margin-top: 15px;
+    text-align: center;
+}
