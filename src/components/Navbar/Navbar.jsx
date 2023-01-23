@@ -6,7 +6,7 @@ import React, { Component } from 'react';
 class Navbar extends Component {
     render() {
         return (
-                <nav>
+        <nav>
         <ul className='nav-bar-superior'>
           <li className='contenedor-logo'>
             <h1>Oddly New</h1>
@@ -15,7 +15,7 @@ class Navbar extends Component {
           <RegisterLoginButton />
         </ul>
         <Categorias />
-      </nav>
+        </nav>
         );
     }
 }

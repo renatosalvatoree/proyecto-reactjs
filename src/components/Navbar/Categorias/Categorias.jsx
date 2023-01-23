@@ -3,7 +3,10 @@ import React, { Component } from 'react';
 class Categorias extends Component {
     render() {
         return (
-        <ul className='nav-bar-inferior'>
+        <div className='nav-bar-inferior'>
+          <img src={require('./../../images/Icons/shopping-cart.png')}></img>
+          1
+        <ul>
           <li>
             <a href='#'>HOME</a>
           </li>
@@ -17,6 +20,8 @@ class Categorias extends Component {
             <a href='#'>DEALS</a>
           </li>
         </ul>
+        
+        </div>
         );
     }
 }
