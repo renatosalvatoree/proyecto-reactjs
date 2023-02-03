@@ -1,11 +1,13 @@
 import './style/App.css';
 import Navbar from './Navbar/Navbar';
 import ItemListContainer from './ItemListContainer';
+import { Dolar } from './Dolar/Dolar';
 function App() {
   return (
     <div>
       <Navbar/>
       <ItemListContainer TextoBienvenida = {"You may like these..."}/>
+      <Dolar/>
       <div class="container">
   <div class="product1">
     <img src={require('./images/Clothes/P0.jpg')}></img>

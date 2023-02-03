@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Adidas Hoodie",
+        "marca": "Adidas",
+        "talle": "L",
+        "precio": 60,
+        "stock": 30,
+        "img": "adidas-hoodie.jpg"
+    },
+    {
+        "id": 2,
+        "idCategoria": 2,
+        "nombre": "Carhartt Overall",
+        "marca": "Carharrt",
+        "talle": "30",
+        "precio": 65,
+        "stock": 20,
+        "img": "carhartt-overall.jpg"
+    },
+    {
+        "id": 3,
+        "idCategoria": 3,
+        "nombre": "New Balance shoes",
+        "marca": "New Balance",
+        "talle": "41",
+        "precio": 40,
+        "stock": 15,
+        "img": "new-balance-shoes.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria": 4,
+        "nombre": "Nike Hoodie",
+        "marca": "Nike",
+        "talle": "M",
+        "precio": 40,
+        "stock": 30,
+        "img": "nike-hoodie.jpg"
+    },
+    {
+        "id": 5,
+        "idCategoria": 4,
+        "nombre": "Adidas Tourtle Neck Jacket",
+        "marca": "Adidas",
+        "talle": "M",
+        "precio": 30,
+        "stock": 7,
+        "img": "adidas-tourtle-neck-jacket.jpg"
+    },
+    {
+        "id": 6,
+        "idCategoria": 4,
+        "nombre": "Dickies Trousers",
+        "marca": "Dickies",
+        "talle": "28",
+        "precio": 50,
+        "stock": 20,
+        "img": "dickies-trousers.jpg"
+    },
+    {
+        "id": 7,
+        "idCategoria": 2,
+        "nombre": "Mango Trousers",
+        "marca": "Mango",
+        "talle": "26",
+        "precio": 45,
+        "stock": 10,
+        "img": "mango-trousers.jpg"
+    },
+    {
+        "id": 8,
+        "idCategoria": 3,
+        "nombre": "Zara Skirt",
+        "marca": "Zara",
+        "talle": "24",
+        "precio": 25,
+        "stock": 30,
+        "img": "zara-skirt.jpg"
+    },
+    {
+        "id": 9,
+        "idCategoria": 4,
+        "nombre": "Prada Blouse",
+        "marca": "Prada",
+        "talle": "SPK200",
+        "precio": 100,
+        "stock": 1,
+        "img": "prada-blouse.jpg"
+    },
+    {
+        "id": 10,
+        "idCategoria": 1,
+        "nombre": "Levi's Overall",
+        "marca": "Levi's",
+        "talle": "30",
+        "precio": 30,
+        "stock": 25,
+        "img": "levis-overall.jpg"
+    },
+    {
+        "id": 11,
+        "idCategoria": 2,
+        "nombre": "Nike Running Shoes",
+        "marca": "Nike",
+        "talle": "43",
+        "precio": 70,
+        "img": "nike-runnning-shoes.jpg"
+    },
+    {
+        "id": 12,
+        "idCategoria": 1,
+        "nombre": "Fila Hoodie",
+        "marca": "Fila",
+        "talle": "S",
+        "precio": 20,
+        "stock": 20,
+        "img": "fila-hoodie.jpg"
+    }
+
+]
