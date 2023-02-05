@@ -1,13 +1,10 @@
-//rfc
+import { Item } from "../Item/Item"
 
-import React from 'react';
-
-const ItemList = ({products}) => {
+export const ItemList = ({products}) => {
     return (
         <>
-            {products.map(producto => )}    
+        {products.map(producto => <Item item={producto}/>)}
         </>
-    );
+        
+    )
 }
-
-export default ItemList;

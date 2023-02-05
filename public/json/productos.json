@@ -7,7 +7,9 @@
         "talle": "L",
         "precio": 60,
         "stock": 30,
-        "img": "adidas-hoodie.jpg"
+        "img": "adidas-hoodie.jpg",
+        "idHTML": "producto1"
+
     },
     {
         "id": 2,
@@ -17,7 +19,8 @@
         "talle": "30",
         "precio": 65,
         "stock": 20,
-        "img": "carhartt-overall.jpg"
+        "img": "carhartt-overall.jpg",
+        "idHTML": "producto2"
     },
     {
         "id": 3,
@@ -27,7 +30,8 @@
         "talle": "41",
         "precio": 40,
         "stock": 15,
-        "img": "new-balance-shoes.jpg"
+        "img": "new-balance-shoes.jpg",
+        "idHTML": "producto3"
     },
     {
         "id": 4,
@@ -37,7 +41,8 @@
         "talle": "M",
         "precio": 40,
         "stock": 30,
-        "img": "nike-hoodie.jpg"
+        "img": "nike-hoodie.jpg",
+        "idHTML": "producto4"
     },
     {
         "id": 5,
@@ -47,7 +52,8 @@
         "talle": "M",
         "precio": 30,
         "stock": 7,
-        "img": "adidas-tourtle-neck-jacket.jpg"
+        "img": "adidas-tourtle-neck-jacket.jpg",
+        "idHTML": "producto5"
     },
     {
         "id": 6,
@@ -57,7 +63,8 @@
         "talle": "28",
         "precio": 50,
         "stock": 20,
-        "img": "dickies-trousers.jpg"
+        "img": "dickies-trousers.jpg",
+        "idHTML": "producto6"
     },
     {
         "id": 7,
@@ -67,7 +74,8 @@
         "talle": "26",
         "precio": 45,
         "stock": 10,
-        "img": "mango-trousers.jpg"
+        "img": "mango-trousers.jpg",
+        "idHTML": "producto7"
     },
     {
         "id": 8,
@@ -77,7 +85,8 @@
         "talle": "24",
         "precio": 25,
         "stock": 30,
-        "img": "zara-skirt.jpg"
+        "img": "zara-skirt.jpg",
+        "idHTML": "producto8"
     },
     {
         "id": 9,
@@ -87,7 +96,8 @@
         "talle": "SPK200",
         "precio": 100,
         "stock": 1,
-        "img": "prada-blouse.jpg"
+        "img": "prada-blouse.jpg",
+        "idHTML": "producto9"
     },
     {
         "id": 10,
@@ -97,7 +107,8 @@
         "talle": "30",
         "precio": 30,
         "stock": 25,
-        "img": "levis-overall.jpg"
+        "img": "levis-overall.jpg",
+        "idHTML": "producto10"
     },
     {
         "id": 11,
@@ -106,7 +117,8 @@
         "marca": "Nike",
         "talle": "43",
         "precio": 70,
-        "img": "nike-runnning-shoes.jpg"
+        "img": "nike-runnning-shoes.jpg",
+        "idHTML": "producto11"
     },
     {
         "id": 12,
@@ -116,7 +128,8 @@
         "talle": "S",
         "precio": 20,
         "stock": 20,
-        "img": "fila-hoodie.jpg"
+        "img": "fila-hoodie.jpg",
+        "idHTML": "producto12"
     }
 
 ]
