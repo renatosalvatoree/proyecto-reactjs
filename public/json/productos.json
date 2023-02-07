@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "idCategoria": 1,
+        "idCategoria": "hoodies",
         "nombre": "Adidas Hoodie",
         "marca": "Adidas",
         "talle": "L",
@@ -13,7 +13,7 @@
     },
     {
         "id": 2,
-        "idCategoria": 2,
+        "idCategoria": "others",
         "nombre": "Carhartt Overall",
         "marca": "Carharrt",
         "talle": "30",
@@ -24,7 +24,7 @@
     },
     {
         "id": 3,
-        "idCategoria": 3,
+        "idCategoria": "shoes",
         "nombre": "New Balance shoes",
         "marca": "New Balance",
         "talle": "41",
@@ -35,7 +35,7 @@
     },
     {
         "id": 4,
-        "idCategoria": 4,
+        "idCategoria": "hoodies",
         "nombre": "Nike Hoodie",
         "marca": "Nike",
         "talle": "M",
@@ -46,7 +46,7 @@
     },
     {
         "id": 5,
-        "idCategoria": 5,
+        "idCategoria": "hoodies",
         "nombre": "Adidas Tourtle Neck Jacket",
         "marca": "Adidas",
         "talle": "M",
@@ -57,7 +57,7 @@
     },
     {
         "id": 6,
-        "idCategoria": 6,
+        "idCategoria": "bottom",
         "nombre": "Dickies Trousers",
         "marca": "Dickies",
         "talle": "28",
@@ -68,7 +68,7 @@
     },
     {
         "id": 7,
-        "idCategoria": 7,
+        "idCategoria": "bottom",
         "nombre": "Mango Trousers",
         "marca": "Mango",
         "talle": "26",
@@ -79,7 +79,7 @@
     },
     {
         "id": 8,
-        "idCategoria": 8,
+        "idCategoria": "bottom",
         "nombre": "Zara Skirt",
         "marca": "Zara",
         "talle": "24",
@@ -90,7 +90,7 @@
     },
     {
         "id": 9,
-        "idCategoria": 10,
+        "idCategoria": "others",
         "nombre": "Prada Blouse",
         "marca": "Prada",
         "talle": "SPK200",
@@ -101,7 +101,7 @@
     },
     {
         "id": 10,
-        "idCategoria": 10,
+        "idCategoria": "others",
         "nombre": "Levi's Overall",
         "marca": "Levi's",
         "talle": "30",
@@ -112,7 +112,7 @@
     },
     {
         "id": 11,
-        "idCategoria": 11,
+        "idCategoria": "shoes",
         "nombre": "Nike Running Shoes",
         "marca": "Nike",
         "talle": "43",
@@ -122,7 +122,7 @@
     },
     {
         "id": 12,
-        "idCategoria": 12,
+        "idCategoria": "hoodies",
         "nombre": "Fila Hoodie",
         "marca": "Fila",
         "talle": "S",

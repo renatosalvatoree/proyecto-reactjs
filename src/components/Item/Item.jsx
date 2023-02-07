@@ -1,3 +1,5 @@
+import { Button } from "bootstrap"
+import { Link } from "react-router-dom"
 export const Item = ({item}) => {
     return (        
     <div class={item.idHTML}>
@@ -8,10 +10,9 @@ export const Item = ({item}) => {
                 <p className='productSize'>Size: {item.talle}</p>
             </div>
             <p className='productPrice'>${item.precio}</p>
-            <p className='view'>View</p>
+            <p className='view'><Link to={`/item/${item.id}`}>View</Link></p>
         </div>
     </div>
     )
 }
 
-// src={`.../img/${item.img}`}

@@ -1,7 +1,7 @@
 //import {ItemCount} from '../ItemCount/ItemCount'
 export const ItemDetail = ({item}) => {
   return (
-    <div>
+    <div className="itemDetail">
         <img src={`../img/${item.img}`}></img>
         <div className='productInfo'>
             <div>

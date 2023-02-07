@@ -2,6 +2,7 @@ import Categorias from './Categorias/Categorias';
 import SearchBar from './SearchBar/SearchBar';
 import RegisterLoginButton from './RegisterLoginButton/RegisterLoginButton'
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 
 class Navbar extends Component {
     render() {
@@ -9,7 +10,7 @@ class Navbar extends Component {
         <nav>
         <ul className='nav-bar-superior'>
           <li className='contenedor-logo'>
-            <h1>Oddly New</h1>
+            <Link to={"/"}><h1>Oddly New</h1></Link>        
           </li>
           <SearchBar />
           <RegisterLoginButton />
