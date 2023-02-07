@@ -1,24 +1,28 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './style/App.css';
 import Navbar from './Navbar/Navbar';
-//import ItemListContainer from './ItemListContainer';
 import { ItemListContainer } from './ItemListContainer/ItemListContainer';
+import { Footer } from './Footer/Footer';
+import { WelcomeMessage } from './WelcomeMessage/WelcomeMessage';
+import { ItemDetailContainer } from './ItemDetailContainer/ItemDetailContainer';
 function App() {
   return (
-    <div>
-      <Navbar/>
-      <div>
-            <p className='mayLike'>You may like these..</p>
-        </div>
+    <>
+    <BrowserRouter>
+    <Navbar/>
+    <Routes>
+        <Route path='/' element={<WelcomeMessage/>} />
+        <Route path='/'element={<ItemListContainer/>} />
+        <Route path='/product/:id' element={<ItemDetailContainer/>} />
+        <Route path='/category/:idCategoria' element={<ItemListContainer/>} />
+    </Routes>
+    
+    <Footer/>
+    
       
-      <div class="container"><ItemListContainer /></div>
+    </BrowserRouter>
 
-
-
-<footer>
-  <p className='copyright'>All rights reserved 2023 Oddly New SA</p>
-</footer>
-    </div> 
+    </> 
   );
 }
 
